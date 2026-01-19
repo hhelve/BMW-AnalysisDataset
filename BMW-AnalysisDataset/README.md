@@ -14,7 +14,7 @@ Arquivo `bmw.csv` contendo:
 
 ## Modelo
 - XGBoost Regressor
-- Métrica: **MAE** (em valores reais)
+- Métrica: **MAE** 
 
 ---
 
@@ -23,3 +23,4 @@ Arquivo `bmw.csv` contendo:
 ```bash
 pip install -r requirements.txt
 python main.py
+
